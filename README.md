@@ -4,4 +4,4 @@
 
 ### &emsp;&emsp; [飞书二开系列之开发流程解析与示例代码（二）](https://mp.weixin.qq.com/s/anuMavpEBBE-G8PM1z0jGA)
 
-### &emsp;&emsp; 飞书二开系列之SpringBoot实现通讯录显示请假状态（三）
+### &emsp;&emsp; [飞书二开系列之SpringBoot实现通讯录显示请假状态（三）](https://mp.weixin.qq.com/s/1rfKK5D8AX6Z5gHr79Yvnw)
