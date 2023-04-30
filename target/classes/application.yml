@@ -1,0 +1,16 @@
+# 服务端口
+server:
+  port: 8080
+
+# 飞书相关配置信息
+feiShuParam:
+  # 加密key
+  encrypt-key: Lp73MrSVKja7nhToYwSYDcY2WFdZRZfKWzApoZTH
+  # 应用ID
+  app-id: cli_a4beae8504389013
+  # 应用密钥
+  app-secret: dVHRj7wiKlnKuscDwfUyQdfIc0NPZDkI
+  # 获取用户token接口
+  tenant-access-token-url: https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal
+  # 请假同步日历接口
+  timeoff-events-url: https://open.feishu.cn/open-apis/calendar/v4/timeoff_events?user_id_type=user_id

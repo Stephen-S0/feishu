@@ -1,0 +1,5 @@
+
+.idea/*
+*.class
+target/maven-status/*
+target/surefire-reports/*
